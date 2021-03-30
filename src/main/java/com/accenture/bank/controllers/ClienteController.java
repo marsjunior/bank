@@ -11,12 +11,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.accenture.bank.controllers.services.ClienteService;
 import com.accenture.bank.models.Cliente;
+import com.accenture.bank.services.ClienteService;
 
-import io.swagger.annotations.Api;
 
-@Api
 @RestController("/cliente")
 public class ClienteController {
 

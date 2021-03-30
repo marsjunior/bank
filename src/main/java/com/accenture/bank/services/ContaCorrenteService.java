@@ -1,4 +1,4 @@
-package com.accenture.bank.controllers.services;
+package com.accenture.bank.services;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

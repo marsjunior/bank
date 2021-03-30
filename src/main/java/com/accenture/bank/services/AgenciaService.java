@@ -1,4 +1,4 @@
-package com.accenture.bank.controllers.services;
+package com.accenture.bank.services;
 
 import org.springframework.stereotype.Service;
 
